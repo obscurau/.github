@@ -51,5 +51,5 @@ Access to the obfuscator API requires an active account on the Obscurau platform
 
 If you need help integrating our API clients or find a bug in our open-source libraries, open an issue in the relevant repository. 
 
-- For open-source inquiries or API development, email us at: <git@obscurau.net>
+- For open-source inquiries or API development, email us at: [git@obscurau.net](mailto:git@obscurau.net)
 - For account, billing, or core platform issues, contact us on Discord.
