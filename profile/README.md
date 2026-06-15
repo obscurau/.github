@@ -2,7 +2,7 @@
 
 Obscurau provides a virtual machine engine that protects Lua and Luau scripts from reverse engineering. This organization hosts our open-source integration libraries, API clients, and public documentation.
 
-## Core Technology
+## Overview
 
 Our primary product is a closed-source obfuscator powered by **ObscurauVM**. We do not use basic minification or simple variable renaming. We compile human-readable Lua and Luau into a custom bytecode format, which is then executed by our internal virtual machine. 
 
